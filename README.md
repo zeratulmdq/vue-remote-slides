@@ -46,3 +46,7 @@ npm run go
 
 #Browse to http://localhost:8080
 ```
+
+## Credits
+
+Ripple effect belongs to [this guy](https://github.com/mladenplavsic/css-ripple-effect).
